@@ -5,7 +5,7 @@ public:
             return 0;
         }
         int n=deliciousness.size();
-        map<int,int>freq;
+        unordered_map<int,int>freq;
         for(int i=0;i<n;i++){
             freq[deliciousness[i]]++;
         }
