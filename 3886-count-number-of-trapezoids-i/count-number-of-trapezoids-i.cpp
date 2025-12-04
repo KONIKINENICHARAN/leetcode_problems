@@ -15,7 +15,9 @@ public:
             A.push_back(it.second);
             }
         }
-        if (A.size() < 2) return 0;
+        if (A.size()<2) {
+            return 0;
+        }
         long long s=A[0],sum=0;
         for(int i=1;i<(int)A.size();i++){
             long long mul=(s*A[i])%1000000007;
