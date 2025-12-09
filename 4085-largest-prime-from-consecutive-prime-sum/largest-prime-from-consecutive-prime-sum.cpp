@@ -27,7 +27,7 @@ public:
             if(maxi>n){
                 break;
             }
-            if(binary_search(C.begin(),C.end(),maxi)){
+            if(A[maxi]){
                 s=maxi;
             }
         }
