@@ -30,9 +30,7 @@ public:
             b--;
         }
         long long op=0;
-        if(!w.empty()){
             op+=stoll(w);
-        }
         op+=(h+k-1)/k;
         w=to_string(op);
         cout<<w;
