@@ -37,7 +37,6 @@ public:
                 next=next->next;
             }
                 temp->next=next;
-                prev=temp;
                 temp=next;
         }
         if(cnt>2){
