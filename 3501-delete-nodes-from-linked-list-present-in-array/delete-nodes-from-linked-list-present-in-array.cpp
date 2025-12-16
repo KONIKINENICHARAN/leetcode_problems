@@ -11,7 +11,6 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        sort(nums.begin(),nums.end());
         int cnt=0;
         ListNode* u=head;
         while(u!=NULL){
