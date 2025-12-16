@@ -22,12 +22,11 @@ public:
         while(i<corridor.size()){
             int j=i+1;
             if(corridor[i]=='0'){
-                int l=0;
+                int l=1;
                 while(j<corridor.size()&&op>j&&corridor[j]=='P'){
                     l++;
                     j++;
                 }
-                l++;
                 cnt =((1ll*cnt*l))%1000000007;
             }
             i=j;
