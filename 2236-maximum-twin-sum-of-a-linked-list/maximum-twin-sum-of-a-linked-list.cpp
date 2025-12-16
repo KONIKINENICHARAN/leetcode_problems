@@ -33,9 +33,6 @@ public:
              l++;
             temp=temp->next;
         }
-        for(int i=0;i<cnt;i++){
-            cout<<A[i]<<" ";
-        }
         return *max_element(A.begin(),A.end());
     }
 };
