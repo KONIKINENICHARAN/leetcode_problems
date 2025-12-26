@@ -10,7 +10,6 @@ public:
                 o++;
             }
         }
-        cout<<cnt<<endl;
         for(int i=0;i<customers.size();i++){
             if(customers[i]=='Y'){
                 int s=cnt+l;
@@ -18,7 +17,6 @@ public:
                     op=i;
                     mini=s;
                 }
-                // mini=min(mini,s);
                 cnt--;
             }
             else{
@@ -27,8 +25,6 @@ public:
                     op=i;
                     mini=s1;
                 }
-                
-                // mini=min(mini,cnt);
                 l++;
             }
         }
