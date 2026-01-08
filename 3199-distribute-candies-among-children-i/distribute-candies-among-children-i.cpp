@@ -9,7 +9,7 @@ public:
                 continue;
             }
             int op=0;
-            if(kl<=limit){
+            if(limit>kl){
                 s+=kl+1;
             }
             else{
