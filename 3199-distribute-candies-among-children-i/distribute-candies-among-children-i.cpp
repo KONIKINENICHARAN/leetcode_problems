@@ -13,7 +13,8 @@ public:
                 s+=kl+1;
             }
             else{
-                s+=(2*limit-kl+1);
+                int op=kl-limit;
+                s+=limit-op+1;
             }
             i++;
         }
