@@ -4,13 +4,11 @@ public:
         unordered_map<char,int>freq;
         int cnt=0,o=0;
         for(int i=0;i<secret.size();i++){
-            freq[secret[i]]++;
-        }
-        for(int i=0;i<guess.size();i++){
             if(secret[i]==guess[i]){
-                freq[secret[i]]--;
                 cnt++;
+                continue;
             }
+            freq[secret[i]]++;
         }
         for(int i=0;i<guess.size();i++){
             if(secret[i]!=guess[i]){
