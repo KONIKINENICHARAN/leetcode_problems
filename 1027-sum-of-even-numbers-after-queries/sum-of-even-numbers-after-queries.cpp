@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> sumEvenAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
-        vector<int>A(nums.size()+3);
+
         int s=0;
         for(int i=0;i<nums.size();i++){
             if(nums[i]%2==0){
