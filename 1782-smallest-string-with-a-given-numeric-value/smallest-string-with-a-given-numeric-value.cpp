@@ -16,7 +16,7 @@ public:
                 char a=m+'a';
                 m-=m;
                 s[i]=a;
-                cout<<a<<" ";
+                break;
             }
         }
         return s;
