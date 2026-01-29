@@ -6,10 +6,8 @@ public:
          int maxi=processorTime[0]+tasks[0];
         int i=1,j=0;
         while(i<processorTime.size()){
-            if(j+4<tasks.size()){
                maxi=max(maxi,processorTime[i]+tasks[j+4]);
                j+=4;
-            }
             i++;
         }
         return maxi;
