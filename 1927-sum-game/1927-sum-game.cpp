@@ -23,7 +23,7 @@ public:
                 }
             }
         }
-        if((op+kl)%2) return true;
+        if((op+kl)%2!=0) return true;
         if(sum==s){
             if(op==kl){
                 return false;
