@@ -6,7 +6,7 @@ public:
         A.push_back("0");
         A.push_back("0");
         int i=2;
-        while(i<=20){
+        while(i<=n){
           string op=A[i-1];
           string kl=A[i-1]+"1";
           for(int j=0;j<op.size();j++){
