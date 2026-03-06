@@ -20,7 +20,7 @@ public:
                 st.push(s[i]);
                 freq[s[i]]++;
                 i++;
-                while(i<s.size()&&(s[i]=='a'||s[i]=='b')){
+                while(!st.empty()&&i<s.size()&&(s[i]=='a'||s[i]=='b')){
                     string kl="";
                     if(!st.empty()){
                         kl+=st.top();
