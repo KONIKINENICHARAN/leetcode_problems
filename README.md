@@ -9,6 +9,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
@@ -20,6 +21,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
@@ -51,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,10 +82,12 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
