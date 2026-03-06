@@ -3,7 +3,7 @@ public:
     int minSetSize(vector<int>& arr) {
         int k=arr.size();
         int op=k/2;
-        map<int,int>freq;
+       unordered_map<int,int>freq;
         for(int i=0;i<k;i++){
             freq[arr[i]]++;
         }
