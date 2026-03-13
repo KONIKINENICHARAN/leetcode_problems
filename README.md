@@ -13,6 +13,7 @@
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -124,6 +128,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Bit Manipulation
