@@ -1,7 +1,7 @@
 class Solution {
 public:
     int threeSumMulti(vector<int>& arr, int target) {
-        map<int,int>freq;
+        unordered_map<int,int>freq;
         for(int i=0;i<arr.size();i++){
             freq[arr[i]]++;
         }
