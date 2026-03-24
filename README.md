@@ -38,6 +38,7 @@
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
@@ -94,6 +95,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3747-count-distinct-integers-after-removing-zeros/) | Medium |
