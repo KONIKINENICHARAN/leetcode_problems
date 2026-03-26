@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
+| [0134-gas-station](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -28,6 +29,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
