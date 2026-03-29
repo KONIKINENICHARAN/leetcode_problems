@@ -65,6 +65,7 @@
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Recursion
