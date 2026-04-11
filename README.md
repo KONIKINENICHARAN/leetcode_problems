@@ -29,6 +29,7 @@
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
