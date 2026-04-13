@@ -21,6 +21,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
