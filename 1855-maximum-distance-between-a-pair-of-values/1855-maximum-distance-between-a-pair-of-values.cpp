@@ -1,22 +1,17 @@
 class Solution {
 public:
     int maxDistance(vector<int>& nums1, vector<int>& nums2) {
-        stack<int>A;
-        for(int i=nums1.size()-1;i>=0;i--){
-            A.push(nums1[i]);
-        }
-        int j=0,i=0;
+        int i=0,j=0;
         int ans=0;
-        while(i<nums2.size()&&j<nums1.size()&&!A.empty()){
-            while(i<nums2.size()&&j<nums1.size()&&j<=i&&!A.empty()&&A.top()>nums2[i]){
+        while(i<nums1.size()&&j<nums2.size()){
+            if(nums1[i]>nums2[j]){
+                i++;
                 j++;
-                A.pop();
             }
-            if(j<nums1.size()&&i<nums2.size()&&j<=i){
-                ans=max(ans,i-j);
-                cout<<j<<" "<<i<<endl;
+            else{
+                ans=max(ans,j-i);
+                j++;
             }
-            i++;
         }
         return ans;
     }
