@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> countWordOccurrences(vector<string>& chunks, vector<string>& queries) {
         vector<int>A;
-        map<string,int>freq;
+        unordered_map<string,int>freq;
         vector<string>C;
         int i=0;
         string ch = "";
