@@ -33,6 +33,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
