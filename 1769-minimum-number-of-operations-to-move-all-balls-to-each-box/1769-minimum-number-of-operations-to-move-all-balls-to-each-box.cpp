@@ -7,15 +7,14 @@ public:
         for(int i=0;i<boxes.size();i++){
             if(boxes[i]=='1'){
                 s+=i;
-                if(i!=0){
                 cnt++;
-                }
             }
         }
         A.push_back(s);
         int o=0;
         if(boxes[0]=='1'){
             o++;
+            cnt--;
         }
         for(int i=1;i<boxes.size();i++){
             s=s+o-cnt;
