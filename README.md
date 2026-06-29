@@ -13,6 +13,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -136,6 +137,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
+| [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
