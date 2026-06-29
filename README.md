@@ -23,6 +23,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -84,6 +85,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -114,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
