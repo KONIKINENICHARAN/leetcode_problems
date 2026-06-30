@@ -10,11 +10,16 @@ public:
                 freq[s[j]-'a']++;
                 j++;
            }
-           if(freq[0]!=0&&freq[1]!=0&&freq[2]!=0){
+          // cout<<j<<" "<<i<<endl;
+           int i1=i;
+           while(i<j&&freq[0]!=0&&freq[1]!=0&&freq[2]!=0){
                 freq[s[i]-'a']--;
                 cnt+=(s.size()-j+1);      
+                i++;
            }
+           if(i1==i){
             i++;
+           }
        }
        return cnt;
     }
