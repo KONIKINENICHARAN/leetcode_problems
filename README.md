@@ -31,6 +31,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -207,6 +208,7 @@
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
