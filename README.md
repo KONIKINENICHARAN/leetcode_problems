@@ -24,6 +24,7 @@
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -59,6 +60,7 @@
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -117,6 +119,7 @@
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -182,6 +185,7 @@
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -209,6 +213,7 @@
 | ------- | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Bit Manipulation
