@@ -23,6 +23,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -187,6 +188,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
