@@ -52,6 +52,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +140,7 @@
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
