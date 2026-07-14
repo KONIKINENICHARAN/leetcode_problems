@@ -107,6 +107,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -120,6 +121,7 @@
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
