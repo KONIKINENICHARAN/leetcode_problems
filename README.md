@@ -38,6 +38,7 @@
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
@@ -136,6 +137,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -144,6 +146,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
