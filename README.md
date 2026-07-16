@@ -56,6 +56,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -125,6 +126,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +199,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +223,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,4 +274,8 @@
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
