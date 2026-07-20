@@ -22,6 +22,7 @@
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -282,6 +283,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
