@@ -31,6 +31,7 @@
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -314,4 +316,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 <!---LeetCode Topics End-->
