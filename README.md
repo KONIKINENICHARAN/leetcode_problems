@@ -29,6 +29,7 @@
 | [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
@@ -241,6 +242,7 @@
 | [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -259,6 +261,7 @@
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
