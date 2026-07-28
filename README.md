@@ -66,6 +66,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3809-best-reachable-tower](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3809-best-reachable-tower/) | Medium |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Greedy
@@ -98,6 +99,7 @@
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
