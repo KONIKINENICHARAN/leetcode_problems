@@ -65,6 +65,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3809-best-reachable-tower](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3809-best-reachable-tower/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Greedy
