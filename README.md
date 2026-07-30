@@ -98,6 +98,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
@@ -133,6 +134,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -167,6 +169,7 @@
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -258,6 +261,7 @@
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -288,6 +292,7 @@
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
