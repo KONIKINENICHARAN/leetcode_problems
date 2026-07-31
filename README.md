@@ -279,6 +279,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0155-min-stack/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -335,4 +336,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
