@@ -79,6 +79,7 @@
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
 | [0984-string-without-aaa-or-bbb](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
+| [0991-broken-calculator](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0991-broken-calculator/) | Medium |
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1328-break-a-palindrome](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1328-break-a-palindrome/) | Medium |
@@ -205,6 +206,7 @@
 | [0007-reverse-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
+| [0991-broken-calculator](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0991-broken-calculator/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
