@@ -52,6 +52,7 @@
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -94,6 +95,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
@@ -183,6 +185,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
@@ -262,6 +265,7 @@
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
