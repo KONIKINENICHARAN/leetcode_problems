@@ -66,6 +66,7 @@
 | [3355-zero-array-transformation-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3809-best-reachable-tower](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3809-best-reachable-tower/) | Medium |
@@ -179,6 +180,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
@@ -277,6 +279,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
