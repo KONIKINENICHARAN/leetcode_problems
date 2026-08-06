@@ -225,6 +225,7 @@
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -234,6 +235,7 @@
 | ------- | ------- |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Two Pointers
