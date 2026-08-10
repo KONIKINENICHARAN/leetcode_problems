@@ -61,6 +61,7 @@
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
@@ -221,6 +222,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -364,6 +366,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
