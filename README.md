@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
+| [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0134-gas-station](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
@@ -115,6 +116,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [1260-shift-2d-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -156,6 +158,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
