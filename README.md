@@ -24,6 +24,7 @@
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
+| [0867-transpose-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
@@ -120,6 +121,7 @@
 | [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
+| [0867-transpose-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -164,6 +166,7 @@
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0867-transpose-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
