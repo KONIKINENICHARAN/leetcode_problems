@@ -10,6 +10,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0454-4sum-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
@@ -202,6 +203,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -242,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -257,6 +260,7 @@
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
