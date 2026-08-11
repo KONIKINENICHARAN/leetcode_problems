@@ -173,6 +173,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1706-where-will-the-ball-fall](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -240,6 +241,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -367,6 +369,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -385,4 +388,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 <!---LeetCode Topics End-->
