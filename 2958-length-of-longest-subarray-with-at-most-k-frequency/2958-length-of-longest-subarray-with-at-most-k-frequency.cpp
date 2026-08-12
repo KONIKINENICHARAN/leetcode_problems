@@ -3,7 +3,7 @@ public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         int i=0;
         int j=0;
-        unordered_map<long long,int>freq;
+        unordered_map<int,int>freq;
         int cnt=INT_MIN;
         while(i<nums.size()){
             freq[nums[i]]++;
