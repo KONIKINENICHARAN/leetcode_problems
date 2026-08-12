@@ -73,6 +73,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -115,6 +116,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 ## Matrix
@@ -328,6 +330,7 @@
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -362,6 +365,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
