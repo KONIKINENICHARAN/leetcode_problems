@@ -75,6 +75,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -207,6 +208,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
