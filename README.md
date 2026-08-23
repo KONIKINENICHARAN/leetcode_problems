@@ -106,6 +106,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -154,6 +155,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -249,6 +251,7 @@
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0991-broken-calculator](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0991-broken-calculator/) | Medium |
+| [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
@@ -421,4 +424,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
