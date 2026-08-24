@@ -260,6 +260,7 @@
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -400,6 +401,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -426,14 +428,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
