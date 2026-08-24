@@ -361,6 +361,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
+| [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -368,6 +369,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3747-count-distinct-integers-after-removing-zeros/) | Medium |
 ## Backtracking
