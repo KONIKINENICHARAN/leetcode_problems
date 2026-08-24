@@ -22,7 +22,6 @@ public:
             }
             else{
                 A.push(asteroids[i]);
-                cout<<A.top()<<" ";
             }
         }
         vector<int>B;
