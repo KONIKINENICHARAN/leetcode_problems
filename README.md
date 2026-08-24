@@ -173,6 +173,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1922-count-good-numbers/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0991-broken-calculator](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0991-broken-calculator/) | Medium |
+| [1922-count-good-numbers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
