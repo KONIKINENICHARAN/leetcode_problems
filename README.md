@@ -363,6 +363,7 @@
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Dynamic Programming
