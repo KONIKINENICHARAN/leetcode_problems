@@ -64,6 +64,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
@@ -139,6 +140,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
@@ -266,6 +268,7 @@
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -408,6 +411,7 @@
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Ordered Set
