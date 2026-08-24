@@ -23,6 +23,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0665-non-decreasing-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0665-non-decreasing-array/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0795-number-of-subarrays-with-bounded-maximum/) | Medium |
