@@ -73,6 +73,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3355-zero-array-transformation-i/) | Medium |
@@ -268,6 +269,7 @@
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2834-find-the-minimum-possible-sum-of-a-beautiful-array/) | Medium |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2844-minimum-operations-to-make-a-special-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -406,6 +408,7 @@
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -433,6 +436,7 @@
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
