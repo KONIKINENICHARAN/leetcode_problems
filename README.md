@@ -171,6 +171,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0007-reverse-integer/) | Medium |
+| [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
@@ -361,6 +363,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
