@@ -84,6 +84,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -361,6 +362,7 @@
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -404,6 +406,7 @@
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
