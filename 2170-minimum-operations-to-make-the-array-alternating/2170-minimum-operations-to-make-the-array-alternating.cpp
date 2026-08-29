@@ -4,8 +4,8 @@ public:
         if(nums.size()==1){
             return 0;
         }
-        map<int,int>fre;
-        map<int,int>freq;
+        unordered_map<int,int>fre;
+        unordered_map<int,int>freq;
         for(int i=0;i<nums.size();i++){
             if(i%2==0){
                 fre[nums[i]]++;
