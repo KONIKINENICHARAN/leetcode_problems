@@ -1,0 +1,90 @@
+class Solution {
+public:
+    vector<vector<int>> queensAttacktheKing(vector<vector<int>>& queens, vector<int>& king) {
+        map<pair<int,int>,int>freq;
+        vector<vector<int>>A;
+        for(int i=0;i<queens.size();i++){
+            freq[{queens[i][0],queens[i][1]}]++;
+        }
+        int op;
+        int kl;
+        op=king[0];
+        kl=king[1];
+        while(op>=0){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op--;
+            kl--;
+        }
+        op=king[0];
+        kl=king[1];
+          while(op<8){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op++;
+            kl++;
+        }
+        op=king[0];
+        kl=king[1];
+        while(op<8){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op++;
+            kl--;
+        }
+        op=king[0];
+        kl=king[1];
+         while(op>=0){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op--;
+            kl++;
+        }
+        op=king[0];
+        kl=king[1];
+        while(kl<8){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            kl++;
+        }
+        op=king[0];
+        kl=king[1];
+        while(kl>=0){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            kl--;
+        }
+         op=king[0];
+        kl=king[1];
+        while(op<8){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op++;
+        }
+         op=king[0];
+        kl=king[1];
+        while(op>=0){
+            if(freq.count({op,kl})){
+                A.push_back({op,kl});
+                break;
+            }
+            op--;
+        }
+        return A
+        ;
+    }
+};
