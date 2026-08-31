@@ -79,6 +79,7 @@
 | [3096-minimum-levels-to-gain-more-points](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3096-minimum-levels-to-gain-more-points/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3355-zero-array-transformation-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3355-zero-array-transformation-i/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
@@ -419,6 +420,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
