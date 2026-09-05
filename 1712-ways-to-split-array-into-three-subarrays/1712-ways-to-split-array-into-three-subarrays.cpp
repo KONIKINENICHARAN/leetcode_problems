@@ -10,7 +10,7 @@ public:
         long long cnt=0;
         int i=0;
         while(i<nums.size()-2){
-              long long op=pre[i]+pre[i];
+            long long op=pre[i]+pre[i];
             int kl=lower_bound(pre.begin()+i+1,pre.end(),op)-pre.begin();
             if(kl>=nums.size()-1){
                i++;
@@ -23,7 +23,7 @@ public:
                 i++;
                 continue;
             }
-            long long z1=upper_bound(pre.begin()+kl,pre.end()-1,pre[kl]+z/2)-pre.begin();
+            long long z1=upper_bound(pre.begin(),pre.end()-1,pre[kl]+z/2)-pre.begin();
             cnt+=(z1-kl)%mod;
             i++;
         }
