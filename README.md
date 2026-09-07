@@ -44,6 +44,7 @@
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
@@ -115,6 +116,7 @@
 | [1328-break-a-palindrome](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1328-break-a-palindrome/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -218,6 +220,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -263,6 +266,7 @@
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
@@ -365,6 +369,7 @@
 | [1054-distant-barcodes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1054-distant-barcodes/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
