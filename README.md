@@ -182,6 +182,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
+| [3163-string-compression-iii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3163-string-compression-iii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 ## Recursion
