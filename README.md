@@ -305,6 +305,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3870-count-commas-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
