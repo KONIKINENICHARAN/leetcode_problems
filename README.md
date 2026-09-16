@@ -167,6 +167,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1451-rearrange-words-in-a-sentence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -348,6 +349,7 @@
 | [1288-remove-covered-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1451-rearrange-words-in-a-sentence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
