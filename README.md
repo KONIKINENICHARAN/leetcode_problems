@@ -43,6 +43,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -221,6 +222,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -268,6 +270,7 @@
 | [0875-koko-eating-bananas](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -418,6 +421,7 @@
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3747-count-distinct-integers-after-removing-zeros/) | Medium |
@@ -440,6 +444,7 @@
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3255-find-the-power-of-k-size-subarrays-ii/) | Medium |
