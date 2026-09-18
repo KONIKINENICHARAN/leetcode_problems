@@ -60,6 +60,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -124,6 +125,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -356,6 +358,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -390,6 +393,7 @@
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -436,6 +440,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Sliding Window
