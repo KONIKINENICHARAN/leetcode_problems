@@ -57,6 +57,7 @@
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1936-add-minimum-number-of-rungs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -124,6 +125,7 @@
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
 | [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
+| [1936-add-minimum-number-of-rungs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
