@@ -64,6 +64,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
@@ -129,6 +130,7 @@
 | [1936-add-minimum-number-of-rungs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
@@ -282,6 +284,7 @@
 | [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2817-minimum-absolute-difference-between-elements-with-constraint/) | Medium |
