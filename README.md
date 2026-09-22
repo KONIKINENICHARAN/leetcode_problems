@@ -13,6 +13,7 @@
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
 | [0454-4sum-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
@@ -274,6 +275,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -351,6 +353,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
+| [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
