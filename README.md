@@ -107,6 +107,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +151,7 @@
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +391,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
