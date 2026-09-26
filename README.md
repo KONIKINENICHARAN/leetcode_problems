@@ -58,6 +58,7 @@
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1712-ways-to-split-array-into-three-subarrays/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1785-minimum-elements-to-add-to-form-a-given-sum/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1936-add-minimum-number-of-rungs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
@@ -189,6 +190,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2120-execution-of-all-suffix-instructions-staying-in-a-grid/) | Medium |
@@ -243,6 +245,7 @@
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
