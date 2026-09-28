@@ -187,6 +187,7 @@
 | [1451-rearrange-words-in-a-sentence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1451-rearrange-words-in-a-sentence/) | Medium |
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -418,6 +419,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
@@ -558,4 +560,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
