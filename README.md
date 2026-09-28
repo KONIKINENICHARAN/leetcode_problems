@@ -97,6 +97,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3523-make-array-non-decreasing](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3676-count-bowl-subarrays](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -358,6 +359,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2332-the-latest-time-to-catch-a-bus/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
