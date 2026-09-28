@@ -3,7 +3,7 @@ public:
     int maxSubarray(vector<int>& nums) {
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>A;
         for(int i=0;i<nums.size();i++){
-            map<int,int>freq;
+            unordered_map<int,int>freq;
             freq[nums[i]]++;
             for(int j=i+1;j<nums.size();j++){
                 int op=nums[i]+nums[j];
