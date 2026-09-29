@@ -209,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1922-count-good-numbers/) | Medium |
 ## Simulation
@@ -311,6 +312,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0263-ugly-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0789-escape-the-ghosts](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0789-escape-the-ghosts/) | Medium |
@@ -455,6 +457,7 @@
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
@@ -564,4 +567,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
