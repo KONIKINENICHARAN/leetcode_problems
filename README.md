@@ -177,6 +177,7 @@
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
@@ -455,6 +456,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
