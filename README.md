@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0134-gas-station](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
@@ -164,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0063-unique-paths-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0867-transpose-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0867-transpose-matrix/) | Easy |
@@ -470,6 +472,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
