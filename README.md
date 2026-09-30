@@ -183,6 +183,7 @@
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
@@ -471,6 +472,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
@@ -485,6 +487,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Monotonic Stack
@@ -587,6 +590,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
