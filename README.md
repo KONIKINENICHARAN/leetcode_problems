@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0057-insert-interval/) | Medium |
@@ -474,6 +475,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -599,6 +601,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0191-number-of-1-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0191-number-of-1-bits/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
