@@ -177,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0006-zigzag-conversion/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
@@ -234,6 +235,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0454-4sum-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0454-4sum-ii/) | Medium |
@@ -474,6 +476,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2708-maximum-strength-of-a-group](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2708-maximum-strength-of-a-group/) | Medium |
 ## Monotonic Stack
