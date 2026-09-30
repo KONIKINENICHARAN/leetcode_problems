@@ -66,6 +66,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1996-the-number-of-weak-characters-in-the-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
@@ -327,6 +328,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1922-count-good-numbers](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1927-sum-game/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2165-smallest-value-of-the-rearranged-number/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
@@ -502,6 +504,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -587,4 +590,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0191-number-of-1-bits/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
