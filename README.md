@@ -11,6 +11,7 @@
 | [0134-gas-station](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
@@ -234,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0454-4sum-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0454-4sum-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -288,6 +290,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
@@ -313,6 +316,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
@@ -370,6 +374,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0056-merge-intervals/) | Medium |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
@@ -448,6 +453,7 @@
 | [0137-single-number-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0338-counting-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
