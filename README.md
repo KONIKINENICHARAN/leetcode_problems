@@ -116,6 +116,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [4062-transform-array-using-pair-operations](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +531,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1503-last-moment-before-all-ants-fall-out-of-a-plank/) | Medium |
+| [4062-transform-array-using-pair-operations](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
