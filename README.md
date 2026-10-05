@@ -117,6 +117,7 @@
 | [3919-minimum-cost-to-move-between-indices](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3919-minimum-cost-to-move-between-indices/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4062-transform-array-using-pair-operations](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4062-transform-array-using-pair-operations/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3810-minimum-operations-to-reach-target-array/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@
 | [3039-apply-operations-to-make-string-empty](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
