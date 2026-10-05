@@ -66,6 +66,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1936-add-minimum-number-of-rungs](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1936-add-minimum-number-of-rungs/) | Medium |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -265,6 +266,7 @@
 | [1540-can-convert-string-in-k-moves](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1540-can-convert-string-in-k-moves/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2615-sum-of-distances](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2615-sum-of-distances/) | Medium |
@@ -432,6 +434,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1488-avoid-flood-in-the-city](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1488-avoid-flood-in-the-city/) | Medium |
+| [1942-the-number-of-the-smallest-unoccupied-chair](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1942-the-number-of-the-smallest-unoccupied-chair/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2233-maximum-product-after-k-increments](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/2233-maximum-product-after-k-increments/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
