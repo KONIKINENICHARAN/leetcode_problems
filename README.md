@@ -130,6 +130,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [0991-broken-calculator](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0991-broken-calculator/) | Medium |
 | [1029-two-city-scheduling](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1029-two-city-scheduling/) | Medium |
@@ -193,6 +194,7 @@
 | [0091-decode-ways](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0091-decode-ways/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0984-string-without-aaa-or-bbb](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0984-string-without-aaa-or-bbb/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1328-break-a-palindrome](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1328-break-a-palindrome/) | Medium |
@@ -445,6 +447,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1717-maximum-score-from-removing-substrings](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
@@ -606,6 +609,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
