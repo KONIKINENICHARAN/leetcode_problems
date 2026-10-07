@@ -188,6 +188,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
@@ -375,6 +376,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
@@ -489,6 +491,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0053-maximum-subarray/) | Medium |
@@ -631,4 +634,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
