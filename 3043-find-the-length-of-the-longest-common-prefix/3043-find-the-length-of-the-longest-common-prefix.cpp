@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        map<int,int>freq;
+        unordered_map<int,int>freq;
         for(int i=0;i<arr2.size();i++){
             string op=to_string(arr2[i]);
             int y=0;
@@ -11,7 +11,7 @@ public:
                 freq[y]++;
             }
         }
-        map<int,int>fre;
+        unordered_map<int,int>fre;
         for(int i=0;i<arr1.size();i++){
             string op=to_string(arr1[i]);
             int y=0;
