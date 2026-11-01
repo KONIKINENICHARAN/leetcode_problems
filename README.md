@@ -18,6 +18,7 @@
 | [0289-game-of-life](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0289-game-of-life/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0436-find-right-interval/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0454-4sum-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0475-heaters](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0475-heaters/) | Medium |
@@ -344,6 +345,7 @@
 | [0231-power-of-two](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0268-missing-number/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KONIKINENICHARAN/leetcode_problems/tree/main/0539-minimum-time-difference/) | Medium |
